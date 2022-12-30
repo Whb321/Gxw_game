@@ -1,11 +1,4 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2513
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
-\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
-
-\f0\fs24 \cf0 # COLORED PONG GAME\
+# COLORED PONG GAME
 #### Video Demo: <https://www.youtube.com/watch?v=vDlyx_R0awU>\
 #### Description : Using LOVE2D with Lua This program containe all function that gives commands to each and every file.\
 the First File: \
@@ -24,5 +17,5 @@ window.width, window.height.\
 \
 that\'92s all i hope that you i can see you again AND i am so sorry if it\'92s a simple game.\
 \
-This is wahab sales CS50 student from kuwait.  \
+This is wahab saleh CS50 student from kuwait.  \
 }
